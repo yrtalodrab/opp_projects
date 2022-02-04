@@ -1,0 +1,6 @@
+﻿  S2.20.cpp
+C:\Users\Руслан\Desktop\sch\с++\S2.20\S2.20\S2.20.cpp(12,27): warning C4101: xyAll: неиспользованная локальная переменная
+C:\Users\Руслан\Desktop\sch\с++\S2.20\S2.20\S2.20.cpp(11,15): warning C4101: P: неиспользованная локальная переменная
+C:\Users\Руслан\Desktop\sch\с++\S2.20\S2.20\S2.20.cpp(11,12): warning C4101: S: неиспользованная локальная переменная
+C:\Users\Руслан\Desktop\sch\с++\S2.20\S2.20\S2.20.cpp(12,33): warning C4101: half: неиспользованная локальная переменная
+  S2.20.vcxproj -> C:\Users\Руслан\Desktop\sch\с++\S2.20\x64\Debug\S2.20.exe

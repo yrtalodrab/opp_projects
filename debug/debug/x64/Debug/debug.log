@@ -1,0 +1,5 @@
+﻿  debug.cpp
+C:\Users\Руслан\Desktop\sch\с++\debug\debug\debug.cpp(8,26): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Руслан\Desktop\sch\с++\debug\debug\debug.cpp(10,72): error C2065: endl: необъявленный идентификатор
+C:\Users\Руслан\Desktop\sch\с++\debug\debug\debug.cpp(12,69): error C2065: endl: необъявленный идентификатор
+C:\Users\Руслан\Desktop\sch\с++\debug\debug\debug.cpp(12,120): error C2065: endl: необъявленный идентификатор
